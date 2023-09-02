@@ -6,7 +6,7 @@
 <p align='center'>
 
 [![GitHub followers](https://img.shields.io/github/followers/derllock?label=Follow&style=social)](https://github.com/derllock/?tab=followers)
-[![Mail Badge](https://img.shields.io/badge/-dheerajbhagchandani-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:denismaheshwari@gmail.com)](mailto:denismaheshwari@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-denis-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:denismaheshwari@gmail.com)](mailto:denismaheshwari@gmail.com)
 
 
 </p>
