@@ -5,7 +5,9 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/derllock.https://github.com/derllock)
+[![GitHub followers](https://img.shields.io/github/followers/Dheeraj-01?label=Follow&style=social)](https://github.com/Dheeraj-01/?tab=followers)
+[![Mail Badge](https://img.shields.io/badge/-dheerajbhagchandani-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:dheerajbhagchandani55@gmail.com)](mailto:dheerajbhagchandani55@gmail.com)
+
 
 </p>
 <div size='20px'> Hi! My name is Denis. Thank You for taking the time to view my GitHub Profile :smile: 
@@ -34,8 +36,8 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
-<a href = 'https://www.linkedin.com/in/denismaheshwari'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.github.com/derllock'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/denismaheshwari'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>&nbsp; &nbsp; 
+<a href = 'https://www.github.com/derllock'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> &nbsp;&nbsp;
 
 
 <h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
