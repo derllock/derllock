@@ -18,19 +18,19 @@
 
 - 🔭 I’m currently working on Creating an application to manage contacts using SpringBoot
 
-- 🌱 Constantly learning to gain absolute proficiency in the entire software development lifecycle, from concept to delivery.  Being Skilled in Java, Spring Framework, RESTful APIs, I'm also passionate about writing clean, maintainable code and solving complex technical challenges.
+- 🌱 Constantly learning to gain absolute proficiency in the entire software development lifecycle, from concept to delivery.
 
 
-- 👯 Look for me if you want to collaborate on projects mainly involving Java 
+- 👯 Look for me if you want to collaborate on projects mainly involving Java. Lets do it together.
 
-- 💬 Talk to me about weird yet innovating ideas on developing apps . Lets do it together. 
+ 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/https://github.com/derllock?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://github.com/https://github.com/derllock?tab=repositories&q=&type=&language=spring&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a>
-<a href= https://github.com/https://github.com/derllock?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/https://github.com/derllock?tab=repositories&q=&type=&language=azure&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/azure.svg'> </a>
-<a href= https://github.com/https://github.com/derllock?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a href= https://github.com/https://github.com/derllock?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>  &nbsp; &nbsp; 
+<a href= https://github.com/https://github.com/derllock?tab=repositories&q=&type=&language=spring&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a>&nbsp; &nbsp;
+<a href= https://github.com/https://github.com/derllock?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>&nbsp; &nbsp;
+<a href= https://github.com/https://github.com/derllock?tab=repositories&q=&type=&language=azure&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/azure.svg'> </a>&nbsp; &nbsp;
+
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
@@ -47,7 +47,8 @@
 
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
-![Metrics](https://metrics.lecoq.io/https://github.com/derllock?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+<img alt="Denis github stats" src="https://github-readme-stats.vercel.app/api?username=derllock&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="48%" align="right">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Denis&" alt=Denis" width="48%" />
 
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
