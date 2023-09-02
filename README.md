@@ -50,7 +50,7 @@
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
 <img alt="Denis github stats" src="https://github-readme-stats.vercel.app/api?username=derllock&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="48%" align="right">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Denis&" alt=Denis" width="48%" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=derllock&" altderllock" width="48%" />
 
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
