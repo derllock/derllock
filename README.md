@@ -10,20 +10,20 @@
 
 
 </p>
-<div size='20px'> Hi! My name is Denis. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'>  My name is Denis. Thank You for taking the time to view my GitHub Profile :smile: 
+ <br><br>I'm currently interning as a Web Developer at Allen Overseas. I am also 2X ICPC Regionalist and secured Global Rank:46 in 2021 Gwalior-Pune Contest.
 </div>
-
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on Creating an application to manage contacts using SpringBoot
+- 🔭 In my own time I'm working on Creating an application to manage contacts using SpringBoot
 
 - 🌱 Constantly learning to gain absolute proficiency in the entire software development lifecycle, from concept to delivery.
 
 
-- 👯 Look for me if you want to collaborate on projects mainly involving Java. Lets do it together.
+- 👯 Look for me if you have any weird but innovating projects requiring contrinbution in Java. Lets do it together.
 
  
 
