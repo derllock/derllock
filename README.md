@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="center">
 <img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner9.gif" alt="cover" />
 </div>
@@ -20,10 +18,10 @@
 
 - 🔭 I’m currently working on Creating an application to manage contacts using SpringBoot
 
-- 🌱 I’m currently learning to gain absolute proficiency in the entire software development lifecycle, from concept to delivery.  Being Skilled in Java, Spring Framework, RESTful APIs, I'm also passionate about writing clean, maintainable code and solving complex technical challenges.
+- 🌱 Constantly learning to gain absolute proficiency in the entire software development lifecycle, from concept to delivery.  Being Skilled in Java, Spring Framework, RESTful APIs, I'm also passionate about writing clean, maintainable code and solving complex technical challenges.
 
 
-- 👯 I’m looking to collaborate on projects mainly involving Java 
+- 👯 Look for me if you want to collaborate on projects mainly involving Java 
 
 - 💬 Talk to me about weird yet innovating ideas on developing apps . Lets do it together. 
 
@@ -36,8 +34,8 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
-<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/denismaheshwari'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.github.com/https://github.com/derllock'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/denismaheshwari'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.github.com/derllock'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
 <h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
@@ -54,7 +52,3 @@
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
-
-<br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
