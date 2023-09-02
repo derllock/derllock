@@ -5,8 +5,8 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
-[![GitHub followers](https://img.shields.io/github/followers/Dheeraj-01?label=Follow&style=social)](https://github.com/Dheeraj-01/?tab=followers)
-[![Mail Badge](https://img.shields.io/badge/-dheerajbhagchandani-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:dheerajbhagchandani55@gmail.com)](mailto:dheerajbhagchandani55@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/derllock?label=Follow&style=social)](https://github.com/derllock/?tab=followers)
+[![Mail Badge](https://img.shields.io/badge/-dheerajbhagchandani-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:denismaheshwari@gmail.com)](mailto:denismaheshwari@gmail.com)
 
 
 </p>
