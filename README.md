@@ -6,7 +6,8 @@
 <p align='center'>
 
 [![GitHub followers](https://img.shields.io/github/followers/derllock?label=Follow&style=social)](https://github.com/derllock/?tab=followers)
-[![Mail Badge](https://img.shields.io/badge/-denis-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:denismaheshwari@gmail.com)](mailto:denismaheshwari@gmail.com)
+![](https://komarev.com/ghpvc/?username=your-github-derllock&color=brightgreen)
+[![Mail Badge](https://img.shields.io/badge/-sendMail-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:denismaheshwari@gmail.com)](mailto:denismaheshwari@gmail.com)
 
 
 </p>
@@ -28,16 +29,21 @@
  
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/https://github.com/derllock?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>  &nbsp; &nbsp; 
-<a href= https://github.com/https://github.com/derllock?tab=repositories&q=&type=&language=spring&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a>&nbsp; &nbsp;
-<a href= https://github.com/https://github.com/derllock?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>&nbsp; &nbsp;
-<a href= https://github.com/https://github.com/derllock?tab=repositories&q=&type=&language=azure&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/azure.svg'> </a>&nbsp; &nbsp;
+<a href= https://github.com/search?q=owner%3Aderllock+language%3Ajava&type=repositories > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>  &nbsp; &nbsp; 
+<a href=  > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a>&nbsp; &nbsp;
+<a href= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>&nbsp; &nbsp;
+<a href= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/azure.svg'> </a>&nbsp; &nbsp;
+<a href=  ><img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>&nbsp; &nbsp;
+<a href=  ><img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'> </a>&nbsp; &nbsp;
+<a href=  ><img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'> </a>&nbsp; &nbsp;
+<a href=  ><img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>&nbsp; &nbsp;
+<a href=  ><img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/arduino.svg'> </a>&nbsp; &nbsp;
 
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 <a href = 'https://www.linkedin.com/in/denismaheshwari'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>&nbsp; &nbsp; 
-<a href = 'https://www.github.com/derllock'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> &nbsp;&nbsp;
+
 
 
 <h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
