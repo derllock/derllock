@@ -45,13 +45,6 @@
 <a href = 'https://www.linkedin.com/in/denismaheshwari'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>&nbsp; &nbsp; 
 
 
-
-<h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@derllock&compact=True"/>
-</a>
-<br>
-
-
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
 <img alt="Denis github stats" src="https://github-readme-stats.vercel.app/api?username=derllock&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="48%" align="right">
